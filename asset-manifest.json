@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/toptrumps/static/css/main.708cbe38.chunk.css",
+    "main.js": "/toptrumps/static/js/main.3b1aeaf0.chunk.js",
+    "main.js.map": "/toptrumps/static/js/main.3b1aeaf0.chunk.js.map",
+    "runtime-main.js": "/toptrumps/static/js/runtime-main.3f92575e.js",
+    "runtime-main.js.map": "/toptrumps/static/js/runtime-main.3f92575e.js.map",
+    "static/css/2.2d164ac3.chunk.css": "/toptrumps/static/css/2.2d164ac3.chunk.css",
+    "static/js/2.6e98d536.chunk.js": "/toptrumps/static/js/2.6e98d536.chunk.js",
+    "static/js/2.6e98d536.chunk.js.map": "/toptrumps/static/js/2.6e98d536.chunk.js.map",
+    "index.html": "/toptrumps/index.html",
+    "precache-manifest.4f3eaef6567d17ddeccd184f33703ac7.js": "/toptrumps/precache-manifest.4f3eaef6567d17ddeccd184f33703ac7.js",
+    "service-worker.js": "/toptrumps/service-worker.js",
+    "static/css/2.2d164ac3.chunk.css.map": "/toptrumps/static/css/2.2d164ac3.chunk.css.map",
+    "static/css/main.708cbe38.chunk.css.map": "/toptrumps/static/css/main.708cbe38.chunk.css.map",
+    "static/media/mdb.css": "/toptrumps/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/default.jpg": "/toptrumps/static/media/default.784b71bf.jpg",
+    "static/media/all.min.css": "/toptrumps/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/jelly.jpg": "/toptrumps/static/media/jelly.ec8fef48.jpg",
+    "static/media/logo.svg": "/toptrumps/static/media/logo.25bf045c.svg",
+    "static/media/App.css": "/toptrumps/static/media/sea.5676359f.jpg",
+    "static/media/shark.jpg": "/toptrumps/static/media/shark.928a6911.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f92575e.js",
+    "static/css/2.2d164ac3.chunk.css",
+    "static/js/2.6e98d536.chunk.js",
+    "static/css/main.708cbe38.chunk.css",
+    "static/js/main.3b1aeaf0.chunk.js"
+  ]
+}
