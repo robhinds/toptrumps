@@ -11,7 +11,7 @@ import { BrowserRouter } from 'react-router-dom'
 import './App.css';
 
 ReactDOM.render((
-  <BrowserRouter>
+  <BrowserRouter basename={'toptrumps'}>
     <App />
   </BrowserRouter>
 ), document.getElementById('root'));
