@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6484582dce283cb58baea87d8b66b96d",
+    "revision": "6e1a50a2e59c19ba085e96b402fc0f46",
     "url": "/toptrumps/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toptrumps/static/css/2.2d164ac3.chunk.css"
   },
   {
-    "revision": "d336214c3557aa020fd0",
+    "revision": "3dd913ea61ace31bd191",
     "url": "/toptrumps/static/css/main.708cbe38.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toptrumps/static/js/2.6e98d536.chunk.js"
   },
   {
-    "revision": "d336214c3557aa020fd0",
-    "url": "/toptrumps/static/js/main.3b1aeaf0.chunk.js"
+    "revision": "3dd913ea61ace31bd191",
+    "url": "/toptrumps/static/js/main.8bd089c8.chunk.js"
   },
   {
     "revision": "e370b0f4a83145cfdb4e",

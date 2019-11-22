@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/toptrumps/static/css/main.708cbe38.chunk.css",
-    "main.js": "/toptrumps/static/js/main.3b1aeaf0.chunk.js",
-    "main.js.map": "/toptrumps/static/js/main.3b1aeaf0.chunk.js.map",
+    "main.js": "/toptrumps/static/js/main.8bd089c8.chunk.js",
+    "main.js.map": "/toptrumps/static/js/main.8bd089c8.chunk.js.map",
     "runtime-main.js": "/toptrumps/static/js/runtime-main.3f92575e.js",
     "runtime-main.js.map": "/toptrumps/static/js/runtime-main.3f92575e.js.map",
     "static/css/2.2d164ac3.chunk.css": "/toptrumps/static/css/2.2d164ac3.chunk.css",
     "static/js/2.6e98d536.chunk.js": "/toptrumps/static/js/2.6e98d536.chunk.js",
     "static/js/2.6e98d536.chunk.js.map": "/toptrumps/static/js/2.6e98d536.chunk.js.map",
     "index.html": "/toptrumps/index.html",
-    "precache-manifest.4f3eaef6567d17ddeccd184f33703ac7.js": "/toptrumps/precache-manifest.4f3eaef6567d17ddeccd184f33703ac7.js",
+    "precache-manifest.b977b71fa1d8d277d01b431dfa2bff60.js": "/toptrumps/precache-manifest.b977b71fa1d8d277d01b431dfa2bff60.js",
     "service-worker.js": "/toptrumps/service-worker.js",
     "static/css/2.2d164ac3.chunk.css.map": "/toptrumps/static/css/2.2d164ac3.chunk.css.map",
     "static/css/main.708cbe38.chunk.css.map": "/toptrumps/static/css/main.708cbe38.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.2d164ac3.chunk.css",
     "static/js/2.6e98d536.chunk.js",
     "static/css/main.708cbe38.chunk.css",
-    "static/js/main.3b1aeaf0.chunk.js"
+    "static/js/main.8bd089c8.chunk.js"
   ]
 }
